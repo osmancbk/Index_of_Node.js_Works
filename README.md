@@ -3,7 +3,7 @@
   
   | Project Code | Name     | Repo link                                                      |           Overview                  |
   |--------------|:--------:|:--------------------------------------------------------------:|------------------------------------:|
+  |M_2       | MERN | [Repository](https://github.com/osmancbk/amazon-mern47)                |
   |M_1       | MERN | [Repository](https://github.com/osmancbk/P1_MERN)|                     |
-  |
 
 
