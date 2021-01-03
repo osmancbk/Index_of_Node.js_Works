@@ -3,6 +3,6 @@
   
   | Project Code | Name     | Repo link                                                      |           Overview                  |
   |--------------|:--------:|:--------------------------------------------------------------:|------------------------------------:|
-  |M_2       | MERN | [Repository](https://github.com/osmancbk/amazon-mern47)                |
+  |M_2       | MERN | [Repository](https://github.com/osmancbk/amazon-mern47)                | https://mern-aws.herokuapp.com/
 
 
